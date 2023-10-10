@@ -1,4 +1,4 @@
-# Hello everyone, my name is Luis Gerardo!
+# HI everyone, my name is Luis Gerardo!
 
 I am a Web developer with more than 5 years of experience, I entered as Fullstack Laravel | Vuejs although my strength is more oriented to the Backend
 
