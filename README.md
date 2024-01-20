@@ -4,7 +4,7 @@ I am a Web developer with more than 7 years of experience, I entered as Fullstac
 
 ![enter image description here](https://luisbardev.netlify.app/img/utilidades/dev_1.webp)
 
-I am 28 years old and I am from Aragua, Venezuela, passionate about development and technology, also for managerial development and good music
+I am 31 years old and I am from Aragua, Venezuela, passionate about development and technology, also for managerial development and good music
 
 >I invite you to visit my website and find out about all the projects to which I have contributed
 [My Website - LuisBarDev](https://luisan.dev)
